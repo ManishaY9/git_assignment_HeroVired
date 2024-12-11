@@ -1,0 +1,2 @@
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.large filter=lfs diff=lfs merge=lfs -text
